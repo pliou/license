@@ -1,0 +1,30 @@
+CUSTOM LICENSE AGREEMENT
+
+Copyright (c) 2025 Pawel Pliousnin Digital Solutions. All rights reserved.
+
+1. Grant of License
+   This software Scored Search is licensed, not sold. The purchaser of this Extension is granted a non-exclusive, non-transferable license to:
+   - Install and use the Extension on their own Adobe Commerce / Magento installations.
+   - Modify the Extension for their own internal business use.
+
+2. Restrictions
+   The purchaser may NOT:
+   - Redistribute, resell, sublicense, share, or otherwise make the Extension available to any third party.
+   - Remove or alter copyright, trademark, or proprietary notices.
+   - Use the Extension in a way that competes directly with PPL Solutions Software or its distribution channels.
+
+3. Ownership
+   All rights, title, and interest in and to the Extension remain with PPL Solutions Software. No ownership rights are transferred under this agreement.
+
+4. Support & Updates
+   Support and updates are provided in accordance with the terms of purchase or subscription agreed with PPL Solutions Software.
+
+5. Termination
+   Any violation of this license will result in immediate termination of the granted rights. Upon termination, all copies of the Extension must be removed.
+
+6. Liability
+   The Extension is provided "as is", without warranty of any kind. PPL Solutions Software is not liable for any damages arising from its use.
+
+---
+
+For licensing questions, please contact: pliousnin@gmail.com
