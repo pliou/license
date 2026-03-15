@@ -1,30 +1,50 @@
-CUSTOM LICENSE AGREEMENT
+CUSTOM SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2025 Pawel Pliousnin Digital Solutions. All rights reserved.
+Copyright (c) 2026 Pawel Pliousnin Digital Solutions.
+All rights reserved.
 
-1. Grant of License
-   This software Scored Search is licensed, not sold. The purchaser of this Extension is granted a non-exclusive, non-transferable license to:
-   - Install and use the Extension on their own Adobe Commerce / Magento installations.
-   - Modify the Extension for their own internal business use.
+1. License Grant
+
+This software product (the "Software") is licensed, not sold.
+
+The purchaser is granted a non-exclusive, non-transferable license to:
+
+- Install and use the Software on their own systems or installations.
+- Modify the Software for internal business use.
 
 2. Restrictions
-   The purchaser may NOT:
-   - Redistribute, resell, sublicense, share, or otherwise make the Extension available to any third party.
-   - Remove or alter copyright, trademark, or proprietary notices.
-   - Use the Extension in a way that competes directly with PPL Solutions Software or its distribution channels.
+
+The purchaser may NOT:
+
+- Redistribute, resell, sublicense, lease, share, or otherwise distribute the Software to any third party.
+- Make the Software publicly available.
+- Remove or alter copyright or proprietary notices.
 
 3. Ownership
-   All rights, title, and interest in and to the Extension remain with PPL Solutions Software. No ownership rights are transferred under this agreement.
 
-4. Support & Updates
-   Support and updates are provided in accordance with the terms of purchase or subscription agreed with PPL Solutions Software.
+All rights, title, and interest in the Software, including all intellectual property rights, remain the exclusive property of Pawel Pliousnin Digital Solutions.
+
+This license does not grant ownership of the Software.
+
+4. Support and Updates
+
+Support and updates are provided according to the terms of purchase or subscription where applicable.
 
 5. Termination
-   Any violation of this license will result in immediate termination of the granted rights. Upon termination, all copies of the Extension must be removed.
 
-6. Liability
-   The Extension is provided "as is", without warranty of any kind. PPL Solutions Software is not liable for any damages arising from its use.
+This license is automatically terminated if the purchaser violates any terms of this agreement.
 
----
+Upon termination, all copies of the Software must be removed from the purchaser's systems.
+
+6. Disclaimer of Warranty
+
+The Software is provided "as is", without warranty of any kind, express or implied.
+
+7. Limitation of Liability
+
+In no event shall Pawel Pliousnin Digital Solutions be liable for any damages arising from the use of the Software.
+
+Software includes extensions, plugins, modules, applications,
+and other software products developed by Pawel Pliousnin Digital Solutions.
 
 For licensing questions, please contact: pliousnin@gmail.com
